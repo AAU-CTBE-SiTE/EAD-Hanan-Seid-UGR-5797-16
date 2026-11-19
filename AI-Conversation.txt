@@ -1,0 +1,6 @@
+AI-Assisted Spring Boot RESTful CRUD API Lab
+
+This project was developed with guidance from ChatGPT as part of the AI-assisted laboratory exercise.
+
+ChatGPT Conversation:
+https://chatgpt.com/share/6afe9ef3-1a30-83ea-a2a5-007b85b209dc
